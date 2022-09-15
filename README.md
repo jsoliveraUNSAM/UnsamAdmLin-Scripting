@@ -8,7 +8,7 @@
 2. Replique dicha funcionalidad en un script ejecutable
 
 
-3. Modifique dicho script para filtrar solo la linea del usuario especificado en la linea de comando al ser ejecutado.  Ej: **./filtro.sh** unsam
+3. Cree un script que filtre y devuelva de **/etc/passwd** solo la linea del usuario especificado en la linea de comando al ser ejecutado.  Ej: **./filtro.sh** unsam
 
 
 4. Utilizando el archivo ([guid_to_fix.csv](./guid_to_fix.csv)) cree un script que genere un archivo llamado guid.csv como se muestra debajo:
